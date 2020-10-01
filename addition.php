@@ -90,6 +90,7 @@
 </table>
 <hr>
 <input type="submit" name="Submit">
+<input type="next" name="Next">
 
 	</div>
 	</main>
